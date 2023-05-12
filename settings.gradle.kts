@@ -1,3 +1,0 @@
-
-rootProject.name = "blockchain-cub"
-
